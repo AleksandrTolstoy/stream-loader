@@ -1,4 +1,4 @@
-# stream-loader
+# Stream loader
 Stream file downloader
 
 # How to run?
