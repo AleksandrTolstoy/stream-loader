@@ -2,5 +2,5 @@
 Stream file downloader
 
 # How to run?
-1)clone or download this repository  
-2)run from the terminal as ```./stream_loader.py```  
+1. Clone or download this repository  
+2. Run from the terminal as: ```./stream_loader.py```  
